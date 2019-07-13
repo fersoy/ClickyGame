@@ -2,7 +2,7 @@ import React from 'react';
 import '../styles/Main.css';
 import Cards from './Cards';
 import images from '../images.json';
-import ImagesCard from './body';
+import ImagesCard from './Body';
 
 
 
@@ -73,5 +73,7 @@ function Main() {
 
         </Cards>
     );
+
+
 }
 export default Main;
